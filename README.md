@@ -28,7 +28,7 @@ python src/benchmark.py
 python src/visualize.py
 ```
 
-Benchmark na každý súbor a každý algoritmus spustí 15 opakovaní a zapíše priemer a smerodajnú odchýlku. Overenie integrity pomocou SHA-256 prebieha pri každom opakovaní — ak sa dekomprimované dáta nezhodujú s pôvodnými, test spadne.
+Benchmark na každý súbor a každý algoritmus spustí 15 opakovaní a zapíše priemer a smerodajnú odchýlku. Overenie integrity pomocou SHA-256 prebieha pri každom opakovaní - ak sa dekomprimované dáta nezhodujú s pôvodnými, test spadne.
 
 ## Výsledky
 
