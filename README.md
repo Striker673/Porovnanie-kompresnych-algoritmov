@@ -38,15 +38,15 @@ Testované na 29 súboroch z Canterbury a Calgary corporov (spolu 2,175 meraní)
 
 ![overall](results/overall_summary.png)
 
-**Kompresný pomer podľa kategórie dát** — Canterbury obsahuje viac textu a HTML, Calgary väčší podiel binárnych a štruktúrovaných súborov.
+**Kompresný pomer podľa kategórie dát** - Canterbury obsahuje viac textu a HTML, Calgary väčší podiel binárnych a štruktúrovaných súborov.
 
 ![by category](results/compression_ratio_by_category.png)
 
-**Kompresný pomer pre jednotlivé súbory** — rozdiely medzi algoritmami sú najvýraznejšie na binárnych faxových obrazoch (ptt5, pic) a na objektovom kóde (obj2), kde LZW súbor naopak zväčší.
+**Kompresný pomer pre jednotlivé súbory** - rozdiely medzi algoritmami sú najvýraznejšie na binárnych faxových obrazoch (ptt5, pic) a na objektovom kóde (obj2), kde LZW súbor naopak zväčší.
 
 ![by file](results/compression_ratio_by_file.png)
 
-**Rozptyl kompresného pomeru** — ukazuje, ako veľmi sa výsledky jednotlivých algoritmov líšia v závislosti od typu vstupu. LZW má najväčší rozptyl (od -63 % po 82 %), Huffman naopak najmenší.
+**Rozptyl kompresného pomeru** - ukazuje, ako veľmi sa výsledky jednotlivých algoritmov líšia v závislosti od typu vstupu. LZW má najväčší rozptyl (od -63 % po 82 %), Huffman naopak najmenší.
 
 ![boxplot](results/boxplot_compression_ratio.png)
 
@@ -63,4 +63,4 @@ Testované na 29 súboroch z Canterbury a Calgary corporov (spolu 2,175 meraní)
 - LZW používa fixné 16-bitové kódy a slovník obmedzený na 4096 záznamov. Produkčné implementácie (napr. gzip) používajú variabilnú dĺžku kódov a reset slovníka, čo dosahuje lepšie pomery, ale skomplikuje dekompresor.
 - Huffman reprezentuje bitové kódy ako textové reťazce znakov `0` a `1`. V Pythone je to čitateľnejšie, v C/C++ by sa samozrejme pracovalo priamo s bitovými operáciami.
 - RLE používa escape byte `0xFF` na rozlíšenie kódovaných rún od surových dát. Minimálna dĺžka runy je 3, kratšie sa nekódujú (pridali by overhead).
-- Hybridy fungujú reťazením výstupov — najprv RLE alebo LZW, potom Huffman na výstupe prvej fázy.
+- Hybridy fungujú reťazením výstupov - najprv RLE alebo LZW, potom Huffman na výstupe prvej fázy.
