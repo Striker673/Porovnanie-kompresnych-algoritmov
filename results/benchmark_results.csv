@@ -1,0 +1,216 @@
+category,category_label,file,algorithm,original_size,compressed_size,compression_ratio,avg_compress_time,avg_decompress_time,std_compress_time,std_decompress_time,compress_speed_mbps,decompress_speed_mbps,max_compress_memory_mb,max_decompress_memory_mb,integrity
+Canterbury Corpus,Canterbury Corpus,alice29.txt,Huffman,152089,88063,42.1,0.132119,0.074111,0.003308,0.002443,1.1,1.96,0.69,1.67,True
+Canterbury Corpus,Canterbury Corpus,alice29.txt,LZW,152089,96428,36.6,0.094068,0.012655,0.002423,0.000406,1.54,11.46,0.61,0.2,True
+Canterbury Corpus,Canterbury Corpus,alice29.txt,RLE,152089,149859,1.47,0.032654,0.013134,0.002677,0.000272,4.44,11.04,0.73,0.47,True
+Canterbury Corpus,Canterbury Corpus,alice29.txt,RLE+Huffman,152089,88167,42.03,0.16568,0.087518,0.005924,0.003029,0.88,1.66,0.84,0,True
+Canterbury Corpus,Canterbury Corpus,alice29.txt,LZW+Huffman,152089,82608,45.68,0.241953,0.095451,0.025685,0.017229,0.6,1.52,0.3,0.17,True
+Canterbury Corpus,Canterbury Corpus,asyoulik.txt,Huffman,125179,76151,39.17,0.124398,0.086494,0.014167,0.016479,0.96,1.38,0.23,0.01,True
+Canterbury Corpus,Canterbury Corpus,asyoulik.txt,LZW,125179,83968,32.92,0.096255,0.013166,0.017553,0.002561,1.24,9.07,0.34,0.68,True
+Canterbury Corpus,Canterbury Corpus,asyoulik.txt,RLE,125179,124998,0.14,0.033534,0.013498,0.008367,0.004488,3.56,8.84,0.53,0.29,True
+Canterbury Corpus,Canterbury Corpus,asyoulik.txt,RLE+Huffman,125179,76353,39.0,0.152847,0.093918,0.011303,0.011788,0.78,1.27,0.49,0.51,True
+Canterbury Corpus,Canterbury Corpus,asyoulik.txt,LZW+Huffman,125179,72433,42.14,0.206371,0.093119,0.01723,0.015108,0.58,1.28,0.23,0.84,True
+Canterbury Corpus,Canterbury Corpus,cp.html,Huffman,24603,16634,32.39,0.012727,0.016462,0.004656,0.005345,1.84,1.43,1.27,0.98,True
+Canterbury Corpus,Canterbury Corpus,cp.html,LZW,24603,16304,33.73,0.010012,0.004176,0.003734,0.002467,2.34,5.62,1.27,0.82,True
+Canterbury Corpus,Canterbury Corpus,cp.html,RLE,24603,24574,0.12,0.006673,0.002845,0.00315,0.001758,3.52,8.25,0.02,0.19,True
+Canterbury Corpus,Canterbury Corpus,cp.html,RLE+Huffman,24603,16794,31.74,0.017,0.017847,0.003963,0.002945,1.38,1.31,0,0.99,True
+Canterbury Corpus,Canterbury Corpus,cp.html,LZW+Huffman,24603,14867,39.57,0.022291,0.018868,0.009682,0.006108,1.05,1.24,0.16,1.09,True
+Canterbury Corpus,Canterbury Corpus,fields.c,Huffman,11150,7481,32.91,0.004221,0.007021,0.000757,0.001687,2.52,1.51,0.5,0.19,True
+Canterbury Corpus,Canterbury Corpus,fields.c,LZW,11150,7088,36.43,0.004597,0.002029,0.001245,0.00056,2.31,5.24,0.55,0.3,True
+Canterbury Corpus,Canterbury Corpus,fields.c,RLE,11150,10905,2.2,0.00307,0.001127,0.001353,0.000238,3.46,9.43,0.01,0.01,True
+Canterbury Corpus,Canterbury Corpus,fields.c,RLE+Huffman,11150,7711,30.84,0.008625,0.009765,0.004262,0.003462,1.23,1.09,0.34,0.51,True
+Canterbury Corpus,Canterbury Corpus,fields.c,LZW+Huffman,11150,7145,35.92,0.007976,0.007599,0.001326,0.001416,1.33,1.4,0,0.86,True
+Canterbury Corpus,Canterbury Corpus,grammar.lsp,Huffman,3721,2555,31.34,0.002392,0.003265,0.00168,0.002051,1.48,1.09,0.26,0.09,True
+Canterbury Corpus,Canterbury Corpus,grammar.lsp,LZW,3721,2822,24.16,0.001641,0.000786,0.000623,0.000215,2.16,4.51,0.09,0.21,True
+Canterbury Corpus,Canterbury Corpus,grammar.lsp,RLE,3721,3634,2.34,0.000852,0.000441,0.000351,0.00035,4.16,8.04,0,0,True
+Canterbury Corpus,Canterbury Corpus,grammar.lsp,RLE+Huffman,3721,2679,28.0,0.002245,0.002587,0.000239,0.000247,1.58,1.37,0.06,0.05,True
+Canterbury Corpus,Canterbury Corpus,grammar.lsp,LZW+Huffman,3721,3393,8.81,0.003461,0.003376,0.000317,0.000518,1.03,1.05,0.14,0.25,True
+Canterbury Corpus,Canterbury Corpus,kennedy.xls,Huffman,1029744,463817,54.96,2.689498,0.499247,0.13817,0.031949,0.37,1.97,0.22,4.2,True
+Canterbury Corpus,Canterbury Corpus,kennedy.xls,LZW,1029744,558984,45.72,2.11711,0.083072,0.244499,0.012278,0.46,11.82,0.79,4.75,True
+Canterbury Corpus,Canterbury Corpus,kennedy.xls,RLE,1029744,1029864,-0.01,0.206872,0.090492,0.005759,0.001419,4.75,10.85,4.02,5.13,True
+Canterbury Corpus,Canterbury Corpus,kennedy.xls,RLE+Huffman,1029744,467465,54.6,2.558218,0.513535,0.032375,0.012049,0.38,1.91,1.4,6.67,True
+Canterbury Corpus,Canterbury Corpus,kennedy.xls,LZW+Huffman,1029744,412267,59.96,3.652642,0.404295,0.056477,0.005759,0.27,2.43,0.25,5.49,True
+Canterbury Corpus,Canterbury Corpus,lcet10.txt,Huffman,426754,250990,41.19,0.758222,0.211662,0.033073,0.003714,0.54,1.92,3.36,3.91,True
+Canterbury Corpus,Canterbury Corpus,lcet10.txt,LZW,426754,296278,30.57,0.554666,0.038156,0.017595,0.001848,0.73,10.67,0.2,3.99,True
+Canterbury Corpus,Canterbury Corpus,lcet10.txt,RLE,426754,413646,3.07,0.087995,0.03621,0.001177,0.000541,4.63,11.24,1.51,1.29,True
+Canterbury Corpus,Canterbury Corpus,lcet10.txt,RLE+Huffman,426754,244687,42.66,0.819639,0.244445,0.010153,0.003925,0.5,1.66,0.49,4.7,True
+Canterbury Corpus,Canterbury Corpus,lcet10.txt,LZW+Huffman,426754,248536,41.76,1.373031,0.266892,0.118895,0.03773,0.3,1.52,0.38,4.81,True
+Canterbury Corpus,Canterbury Corpus,plrabn12.txt,Huffman,481861,275995,42.72,1.086967,0.288839,0.054306,0.020386,0.42,1.59,3.39,3.89,True
+Canterbury Corpus,Canterbury Corpus,plrabn12.txt,LZW,481861,313244,34.99,0.767726,0.047192,0.056262,0.006384,0.6,9.74,0.5,4.37,True
+Canterbury Corpus,Canterbury Corpus,plrabn12.txt,RLE,481861,481200,0.14,0.130867,0.050559,0.016116,0.010925,3.51,9.09,2.73,0.96,True
+Canterbury Corpus,Canterbury Corpus,plrabn12.txt,RLE+Huffman,481861,275861,42.75,1.22625,0.348008,0.042018,0.034119,0.37,1.32,1.15,4.58,True
+Canterbury Corpus,Canterbury Corpus,plrabn12.txt,LZW+Huffman,481861,265676,44.86,1.725986,0.329791,0.083022,0.028533,0.27,1.39,0.6,4.54,True
+Canterbury Corpus,Canterbury Corpus,ptt5,Huffman,513216,107351,79.08,0.251861,0.133289,0.017269,0.016911,1.94,3.67,0.25,3.64,True
+Canterbury Corpus,Canterbury Corpus,ptt5,LZW,513216,93624,81.76,0.20912,0.014239,0.020579,0.001911,2.34,34.37,0.55,3.23,True
+Canterbury Corpus,Canterbury Corpus,ptt5,RLE,513216,114910,77.61,0.057588,0.015072,0.008937,0.005436,8.5,32.47,0.33,1.94,True
+Canterbury Corpus,Canterbury Corpus,ptt5,RLE+Huffman,513216,71314,86.1,0.171894,0.093402,0.025081,0.020249,2.85,5.24,0.25,3.53,True
+Canterbury Corpus,Canterbury Corpus,ptt5,LZW+Huffman,513216,77406,84.92,0.331242,0.097375,0.027758,0.018249,1.48,5.03,0.52,3.49,True
+Canterbury Corpus,Canterbury Corpus,sum,Huffman,38240,26925,29.59,0.027769,0.0276,0.009497,0.008287,1.31,1.32,0.93,0.96,True
+Canterbury Corpus,Canterbury Corpus,sum,LZW,38240,41254,-7.88,0.031614,0.008758,0.011629,0.004457,1.15,4.16,0.38,1.19,True
+Canterbury Corpus,Canterbury Corpus,sum,RLE,38240,34402,10.04,0.011947,0.005061,0.00323,0.002253,3.05,7.21,0.14,0.07,True
+Canterbury Corpus,Canterbury Corpus,sum,RLE+Huffman,38240,27408,28.33,0.033732,0.031117,0.006991,0.007022,1.08,1.17,0.52,1.21,True
+Canterbury Corpus,Canterbury Corpus,sum,LZW+Huffman,38240,30375,20.57,0.057762,0.038981,0.013617,0.009668,0.63,0.94,0.77,1.04,True
+Canterbury Corpus,Canterbury Corpus,xargs.1,Huffman,4227,2977,29.57,0.001672,0.002568,0.00035,0.000362,2.41,1.57,0.01,0.0,True
+Canterbury Corpus,Canterbury Corpus,xargs.1,LZW,4227,3588,15.12,0.001879,0.001082,0.00062,0.000597,2.15,3.73,0,0.02,True
+Canterbury Corpus,Canterbury Corpus,xargs.1,RLE,4227,4231,-0.09,0.000911,0.000374,6.5e-05,1.8e-05,4.42,10.76,0,0,True
+Canterbury Corpus,Canterbury Corpus,xargs.1,RLE+Huffman,4227,3004,28.93,0.002307,0.002842,8.9e-05,0.000939,1.75,1.42,0,0.0,True
+Canterbury Corpus,Canterbury Corpus,xargs.1,LZW+Huffman,4227,3995,5.49,0.003895,0.004661,0.00041,0.003048,1.04,0.86,0.02,0.36,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),bib,Huffman,111261,73171,34.23,0.118209,0.07118,0.01716,0.009591,0.9,1.49,0.22,2.66,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),bib,LZW,111261,71796,35.47,0.083834,0.010502,0.018494,0.001323,1.27,10.1,0,2.06,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),bib,RLE,111261,111265,-0.0,0.027241,0.010366,0.003607,0.00098,3.9,10.24,0.4,0.12,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),bib,RLE+Huffman,111261,73327,34.09,0.138701,0.08649,0.013832,0.012031,0.77,1.23,0.77,2.51,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),bib,LZW+Huffman,111261,61923,44.34,0.152823,0.070302,0.007861,0.007035,0.69,1.51,0.27,2.89,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book1,Huffman,768771,438789,42.92,2.352786,0.4316,0.236794,0.052256,0.31,1.7,2.53,5.41,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book1,LZW,768771,521080,32.22,1.54021,0.069577,0.041667,0.002794,0.48,10.54,0.24,5.16,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book1,RLE,768771,768649,0.02,0.160301,0.065722,0.001493,0.000599,4.57,11.16,3.79,4.53,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book1,RLE+Huffman,768771,438976,42.9,2.228538,0.445098,0.066002,0.004085,0.33,1.65,1.27,5.19,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book1,LZW+Huffman,768771,442519,42.44,3.657587,0.433017,0.107804,0.005588,0.2,1.69,0.61,5.74,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book2,Huffman,610856,368785,39.63,1.486915,0.316195,0.039115,0.005464,0.39,1.84,0,5.4,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book2,LZW,610856,462042,24.36,1.235527,0.060016,0.027494,0.001861,0.47,9.71,0.66,5.45,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book2,RLE,610856,610565,0.05,0.127726,0.052124,0.002666,0.000689,4.56,11.18,2.7,3.25,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book2,RLE+Huffman,610856,369188,39.56,1.683854,0.368517,0.042566,0.004973,0.35,1.58,0.93,5.13,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),book2,LZW+Huffman,610856,382826,37.33,2.870989,0.373921,0.074342,0.010613,0.2,1.56,1.15,5.63,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),geo,Huffman,102400,73841,27.89,0.097109,0.061516,0.004011,0.005333,1.01,1.59,0.34,2.96,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),geo,LZW,102400,105008,-2.55,0.095051,0.013528,0.001532,0.001419,1.03,7.22,0.34,1.65,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),geo,RLE,102400,100824,1.54,0.021817,0.009027,0.000202,0.000173,4.48,10.82,0.32,0.21,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),geo,RLE+Huffman,102400,74224,27.52,0.116293,0.069369,0.002686,0.001371,0.84,1.41,0,3.47,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),geo,LZW+Huffman,102400,83492,18.46,0.211128,0.080318,0.004049,0.001776,0.46,1.22,0,3.46,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),news,Huffman,377109,246889,34.53,0.732312,0.205142,0.0168,0.002284,0.49,1.75,0.49,4.29,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),news,LZW,377109,310414,17.69,0.596253,0.039861,0.018483,0.001008,0.6,9.02,0.68,4.12,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),news,RLE,377109,366665,2.77,0.078933,0.032945,0.001404,0.00042,4.56,10.92,1.36,2.05,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),news,RLE+Huffman,377109,242411,35.72,0.783039,0.234532,0.016906,0.00275,0.46,1.53,0.11,4.11,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),news,LZW+Huffman,377109,258341,31.49,1.407158,0.257789,0.091854,0.01505,0.26,1.4,0.0,4.55,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj1,Huffman,21504,17336,19.38,0.012785,0.018427,0.00467,0.004304,1.6,1.11,0.77,0.81,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj1,LZW,21504,22570,-4.96,0.01167,0.004199,0.001979,0.000284,1.76,4.88,0.89,1.01,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj1,RLE,21504,18842,12.38,0.004601,0.001933,0.000156,0.000399,4.46,10.61,0.15,0.06,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj1,RLE+Huffman,21504,16845,21.67,0.015084,0.017619,0.002123,0.003677,1.36,1.16,0.64,0.54,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj1,LZW+Huffman,21504,17409,19.04,0.024208,0.019435,0.003749,0.002506,0.85,1.06,0.38,1.14,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj2,Huffman,246814,195381,20.84,0.580243,0.206067,0.051883,0.029069,0.41,1.14,3.04,3.66,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj2,LZW,246814,403390,-63.44,1.085928,0.05571,0.05549,0.006794,0.22,4.23,0.5,5.28,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj2,RLE,246814,266047,-7.79,0.060194,0.029396,0.004913,0.003833,3.91,8.01,0.77,0.41,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj2,RLE+Huffman,246814,207534,15.91,0.716266,0.247448,0.059963,0.017181,0.33,0.95,0.09,4.76,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),obj2,LZW+Huffman,246814,248439,-0.66,2.0283,0.335569,0.127562,0.036885,0.12,0.7,0,4.68,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper1,Huffman,53161,33817,36.39,0.039027,0.038383,0.008255,0.01107,1.3,1.32,1.54,1.68,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper1,LZW,53161,41570,21.8,0.035481,0.009353,0.010768,0.006407,1.43,5.42,1.27,1.16,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper1,RLE,53161,52996,0.31,0.01613,0.007813,0.006605,0.005022,3.14,6.49,0.13,0.08,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper1,RLE+Huffman,53161,33945,36.15,0.055567,0.041377,0.015901,0.009752,0.91,1.23,0,1.61,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper1,LZW+Huffman,53161,35140,33.9,0.077911,0.046849,0.016162,0.010843,0.65,1.08,1.79,1.67,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper2,Huffman,82199,48075,41.51,0.066195,0.053114,0.022419,0.014064,1.18,1.48,0,2.19,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper2,LZW,82199,55556,32.41,0.054173,0.009757,0.009806,0.003489,1.45,8.03,0,1.63,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper2,RLE,82199,82194,0.01,0.022571,0.008688,0.007787,0.002747,3.47,9.02,0.09,0.05,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper2,RLE+Huffman,82199,48148,41.43,0.085776,0.05663,0.013725,0.010015,0.91,1.38,0.13,2.11,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),paper2,LZW+Huffman,82199,47952,41.66,0.110628,0.054052,0.00971,0.006403,0.71,1.45,0.38,2.2,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),pic,Huffman,513216,107351,79.08,0.242271,0.132082,0.018331,0.0192,2.02,3.71,0.67,4.32,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),pic,LZW,513216,93624,81.76,0.213401,0.016087,0.032486,0.00447,2.29,30.42,0.14,3.77,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),pic,RLE,513216,114910,77.61,0.059465,0.015387,0.009544,0.004704,8.23,31.81,0.54,2.05,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),pic,RLE+Huffman,513216,71314,86.1,0.179119,0.095842,0.019163,0.014775,2.73,5.11,0.32,3.64,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),pic,LZW+Huffman,513216,77406,84.92,0.346141,0.096965,0.02807,0.014739,1.41,5.05,0.57,3.46,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progc,Huffman,39611,26379,33.4,0.021078,0.02651,0.00302,0.008248,1.79,1.42,1.25,1.34,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progc,LZW,39611,32622,17.64,0.020332,0.005725,0.003498,0.002123,1.86,6.6,1.39,1.2,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progc,RLE,39611,38896,1.81,0.010917,0.004009,0.005845,0.000995,3.46,9.42,0.12,0.05,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progc,RLE+Huffman,39611,26748,32.47,0.035874,0.030623,0.009182,0.005771,1.05,1.23,1.27,1.27,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progc,LZW+Huffman,39611,27553,30.44,0.046781,0.030229,0.009158,0.004758,0.81,1.25,0.26,1.25,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progl,Huffman,71646,43422,39.39,0.058366,0.046797,0.014551,0.009362,1.17,1.46,0.25,2.07,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progl,LZW,71646,46556,35.02,0.040638,0.006934,0.011643,0.000719,1.68,9.85,0.02,1.36,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progl,RLE,71646,66616,7.02,0.022295,0.009017,0.011312,0.004671,3.06,7.58,0.36,0.25,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progl,RLE+Huffman,71646,42507,40.67,0.062581,0.057283,0.008911,0.016983,1.09,1.19,0,1.92,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progl,LZW+Huffman,71646,39732,44.54,0.082982,0.049943,0.01458,0.014792,0.82,1.37,0,2.21,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progp,Huffman,49379,30664,37.9,0.029892,0.031463,0.007473,0.010047,1.58,1.5,2.01,1.36,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progp,LZW,49379,31050,37.12,0.026899,0.007835,0.009905,0.004111,1.75,6.01,0.88,1.08,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progp,RLE,49379,45229,8.4,0.014699,0.006298,0.00634,0.0043,3.2,7.48,0.07,0.05,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progp,RLE+Huffman,49379,31112,36.99,0.044379,0.03889,0.005744,0.007689,1.06,1.21,1.4,1.25,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),progp,LZW+Huffman,49379,27116,45.09,0.03974,0.026781,0.004281,0.001837,1.18,1.76,0.44,1.51,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),trans,Huffman,93695,65718,29.86,0.081921,0.053413,0.005707,0.002127,1.09,1.67,0.17,2.21,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),trans,LZW,93695,67394,28.07,0.053572,0.009239,0.000881,0.000286,1.67,9.67,0.32,1.75,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),trans,RLE,93695,89743,4.22,0.018635,0.007806,0.000421,0.000169,4.79,11.45,0.35,0.26,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),trans,RLE+Huffman,93695,64595,31.06,0.097411,0.060722,0.002543,0.001962,0.92,1.47,0.34,2.73,True
+The Standard Calgary Corpus,Calgary Corpus (Standard),trans,LZW+Huffman,93695,57415,38.72,0.115723,0.05459,0.001207,0.001352,0.77,1.64,0,2.4,True
+The Large Calgary Corpus,Calgary Corpus (Large),bib,Huffman,111261,73171,34.23,0.098355,0.061538,0.002442,0.001873,1.08,1.72,0.03,2.96,True
+The Large Calgary Corpus,Calgary Corpus (Large),bib,LZW,111261,71796,35.47,0.061084,0.009826,0.001335,0.000463,1.74,10.8,0.21,2.42,True
+The Large Calgary Corpus,Calgary Corpus (Large),bib,RLE,111261,111265,-0.0,0.024069,0.009959,0.000574,0.000352,4.41,10.65,0.09,0.14,True
+The Large Calgary Corpus,Calgary Corpus (Large),bib,RLE+Huffman,111261,73327,34.09,0.117624,0.070945,0.002361,0.001959,0.9,1.5,0.25,3.0,True
+The Large Calgary Corpus,Calgary Corpus (Large),bib,LZW+Huffman,111261,61923,44.34,0.130447,0.059306,0.002254,0.00121,0.81,1.79,0.41,2.71,True
+The Large Calgary Corpus,Calgary Corpus (Large),book1,Huffman,768771,438789,42.92,2.097356,0.369525,0.052917,0.004128,0.35,1.98,0,5.64,True
+The Large Calgary Corpus,Calgary Corpus (Large),book1,LZW,768771,521080,32.22,1.564752,0.067416,0.065514,0.00185,0.47,10.88,0.89,5.09,True
+The Large Calgary Corpus,Calgary Corpus (Large),book1,RLE,768771,768649,0.02,0.161864,0.066314,0.002738,0.001029,4.53,11.06,0.9,4.61,True
+The Large Calgary Corpus,Calgary Corpus (Large),book1,RLE+Huffman,768771,438976,42.9,2.286279,0.439872,0.03933,0.006011,0.32,1.67,1.01,5.31,True
+The Large Calgary Corpus,Calgary Corpus (Large),book1,LZW+Huffman,768771,442519,42.44,3.630211,0.427153,0.056335,0.005984,0.2,1.72,1.54,5.07,True
+The Large Calgary Corpus,Calgary Corpus (Large),book2,Huffman,610856,368785,39.63,1.473583,0.311952,0.045489,0.00321,0.4,1.87,0.04,5.41,True
+The Large Calgary Corpus,Calgary Corpus (Large),book2,LZW,610856,462042,24.36,1.257404,0.062153,0.038454,0.00273,0.46,9.37,0.49,5.9,True
+The Large Calgary Corpus,Calgary Corpus (Large),book2,RLE,610856,610565,0.05,0.129853,0.052976,0.003173,0.001366,4.49,11.0,3.16,3.48,True
+The Large Calgary Corpus,Calgary Corpus (Large),book2,RLE+Huffman,610856,369188,39.56,1.619545,0.365366,0.04479,0.003617,0.36,1.59,0.83,6.15,True
+The Large Calgary Corpus,Calgary Corpus (Large),book2,LZW+Huffman,610856,382826,37.33,2.807883,0.368612,0.044522,0.004861,0.21,1.58,1.86,5.47,True
+The Large Calgary Corpus,Calgary Corpus (Large),geo,Huffman,102400,73841,27.89,0.093752,0.058414,0.002037,0.000633,1.04,1.67,0,3.12,True
+The Large Calgary Corpus,Calgary Corpus (Large),geo,LZW,102400,105008,-2.55,0.095743,0.01308,0.003267,0.000475,1.02,7.47,0.2,2.41,True
+The Large Calgary Corpus,Calgary Corpus (Large),geo,RLE,102400,100824,1.54,0.021147,0.008819,0.000675,0.000459,4.62,11.07,0.29,0.12,True
+The Large Calgary Corpus,Calgary Corpus (Large),geo,RLE+Huffman,102400,74224,27.52,0.11674,0.068126,0.001429,0.000927,0.84,1.43,0.45,2.24,True
+The Large Calgary Corpus,Calgary Corpus (Large),geo,LZW+Huffman,102400,83492,18.46,0.21096,0.079227,0.004463,0.001556,0.46,1.23,0.29,3.77,True
+The Large Calgary Corpus,Calgary Corpus (Large),news,Huffman,377109,246889,34.53,0.729485,0.202062,0.020496,0.001523,0.49,1.78,0.63,4.66,True
+The Large Calgary Corpus,Calgary Corpus (Large),news,LZW,377109,310414,17.69,0.592169,0.038784,0.013442,0.00121,0.61,9.27,0,4.34,True
+The Large Calgary Corpus,Calgary Corpus (Large),news,RLE,377109,366665,2.77,0.077477,0.032472,0.002075,0.001133,4.64,11.08,1.72,0.74,True
+The Large Calgary Corpus,Calgary Corpus (Large),news,RLE+Huffman,377109,242411,35.72,0.758246,0.232134,0.010746,0.003254,0.47,1.55,0.02,5.45,True
+The Large Calgary Corpus,Calgary Corpus (Large),news,LZW+Huffman,377109,258341,31.49,1.37072,0.248872,0.034801,0.005553,0.26,1.45,0.46,6.09,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj1,Huffman,21504,17336,19.38,0.009632,0.012933,0.001186,0.00018,2.13,1.59,0.69,0.64,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj1,LZW,21504,22570,-4.96,0.009794,0.003796,0.000401,0.000775,2.09,5.4,0.14,1.18,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj1,RLE,21504,18842,12.38,0.003926,0.001645,7.7e-05,4.8e-05,5.22,12.47,0.0,0.16,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj1,RLE+Huffman,21504,16845,21.67,0.012948,0.014289,0.000375,0.000165,1.58,1.44,0.21,0.52,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj1,LZW+Huffman,21504,17409,19.04,0.019371,0.016561,0.000592,0.000326,1.06,1.24,0.16,1.12,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj2,Huffman,246814,195381,20.84,0.474525,0.159011,0.010764,0.00273,0.5,1.48,3.33,4.27,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj2,LZW,246814,403390,-63.44,0.901347,0.044775,0.03163,0.001071,0.26,5.26,0,4.83,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj2,RLE,246814,266047,-7.79,0.050423,0.024241,0.000341,0.000976,4.67,9.71,1.33,0.47,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj2,RLE+Huffman,246814,207534,15.91,0.587445,0.192215,0.012096,0.002997,0.4,1.22,0.24,4.98,True
+The Large Calgary Corpus,Calgary Corpus (Large),obj2,LZW+Huffman,246814,248439,-0.66,1.64828,0.254688,0.032547,0.003856,0.14,0.92,0,4.64,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper1,Huffman,53161,33817,36.39,0.028164,0.02816,0.001468,0.002018,1.8,1.8,1.81,1.95,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper1,LZW,53161,41570,21.8,0.025964,0.005962,0.001747,0.000261,1.95,8.5,1.01,1.39,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper1,RLE,53161,52996,0.31,0.011405,0.004608,0.000138,2.1e-05,4.45,11.0,0.1,0.02,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper1,RLE+Huffman,53161,33945,36.15,0.039585,0.031901,0.00145,0.000628,1.28,1.59,1.12,1.61,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper1,LZW+Huffman,53161,35140,33.9,0.054809,0.033169,0.000802,0.000609,0.93,1.53,1.05,1.66,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper2,Huffman,82199,48075,41.51,0.049399,0.03906,0.001848,0.000467,1.59,2.01,0.05,2.3,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper2,LZW,82199,55556,32.41,0.042429,0.007772,0.002556,0.000314,1.85,10.09,0.21,1.45,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper2,RLE,82199,82194,0.01,0.017363,0.007063,0.000638,0.000179,4.51,11.1,0.04,0.02,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper2,RLE+Huffman,82199,48148,41.43,0.066668,0.046778,0.001145,0.000686,1.18,1.68,0.17,2.28,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper2,LZW+Huffman,82199,47952,41.66,0.088172,0.045017,0.002762,0.000851,0.89,1.74,0,2.59,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper3,Huffman,46526,27700,40.46,0.02093,0.023306,0.001088,0.000647,2.12,1.9,1.03,1.52,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper3,LZW,46526,31892,31.45,0.019253,0.004856,0.000427,0.000174,2.3,9.14,0.42,1.24,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper3,RLE,46526,46530,-0.01,0.009783,0.004012,0.000286,0.000193,4.54,11.06,0.03,0.05,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper3,RLE+Huffman,46526,27740,40.38,0.029992,0.026225,0.000392,0.000213,1.48,1.69,1.41,1.32,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper3,LZW+Huffman,46526,28094,39.62,0.038141,0.025957,0.000699,0.000349,1.16,1.71,0.5,1.48,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper4,Huffman,13286,8265,37.79,0.004223,0.00668,0.000188,0.000411,3.0,1.9,0.32,0.18,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper4,LZW,13286,9924,25.3,0.004645,0.002076,9.5e-05,0.000232,2.73,6.1,0.38,0.44,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper4,RLE,13286,13290,-0.03,0.002846,0.001155,0.000109,4.1e-05,4.45,10.97,0.05,0.01,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper4,RLE+Huffman,13286,8299,37.54,0.007233,0.00775,0.000284,0.000157,1.75,1.63,0.64,0.49,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper4,LZW+Huffman,13286,9374,29.44,0.009082,0.008772,0.000156,0.000175,1.4,1.44,0.17,1.05,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper5,Huffman,11954,7891,33.99,0.003937,0.006153,0.000118,0.000244,2.9,1.85,0.37,0.36,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper5,LZW,11954,9360,21.7,0.004297,0.001951,0.000129,7.2e-05,2.65,5.84,0.42,0.4,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper5,RLE,11954,11954,0.0,0.002625,0.001065,0.0004,0.000131,4.34,10.7,0,0.0,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper5,RLE+Huffman,11954,7946,33.53,0.0065,0.007462,0.000172,0.000629,1.75,1.53,0.31,0.09,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper5,LZW+Huffman,11954,8974,24.93,0.008967,0.008886,0.000476,0.000308,1.27,1.28,0.54,0.93,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper6,Huffman,38105,24493,35.72,0.017235,0.020152,0.000701,0.000661,2.11,1.8,1.11,1.31,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper6,LZW,38105,31072,18.46,0.017676,0.004797,0.00099,0.000164,2.06,7.58,0,1.19,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper6,RLE,38105,38075,0.08,0.008204,0.003378,0.000124,7.8e-05,4.43,10.76,0.03,0.09,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper6,RLE+Huffman,38105,24594,35.46,0.024928,0.023042,0.000942,0.000359,1.46,1.58,1.18,0.85,True
+The Large Calgary Corpus,Calgary Corpus (Large),paper6,LZW+Huffman,38105,26142,31.39,0.034464,0.024943,0.000413,0.000173,1.05,1.46,0.27,1.3,True
+The Large Calgary Corpus,Calgary Corpus (Large),pic,Huffman,513216,107351,79.08,0.207504,0.108934,0.011798,0.001778,2.36,4.49,0.08,4.6,True
+The Large Calgary Corpus,Calgary Corpus (Large),pic,LZW,513216,93624,81.76,0.175834,0.013952,0.010099,0.001673,2.78,35.08,0.11,3.66,True
+The Large Calgary Corpus,Calgary Corpus (Large),pic,RLE,513216,114910,77.61,0.049613,0.012583,0.001579,0.000699,9.87,38.9,0.4,2.43,True
+The Large Calgary Corpus,Calgary Corpus (Large),pic,RLE+Huffman,513216,71314,86.1,0.141649,0.07279,0.002578,0.002463,3.46,6.72,0.16,3.11,True
+The Large Calgary Corpus,Calgary Corpus (Large),pic,LZW+Huffman,513216,77406,84.92,0.27522,0.076966,0.005812,0.002188,1.78,6.36,0.29,2.88,True
+The Large Calgary Corpus,Calgary Corpus (Large),progc,Huffman,39611,26379,33.4,0.01926,0.022253,0.000571,0.000589,1.96,1.7,1.16,1.33,True
+The Large Calgary Corpus,Calgary Corpus (Large),progc,LZW,39611,32622,17.64,0.019417,0.005299,0.000723,0.000372,1.95,7.13,1.04,1.32,True
+The Large Calgary Corpus,Calgary Corpus (Large),progc,RLE,39611,38896,1.81,0.008709,0.003692,0.000182,8e-05,4.34,10.23,0.15,0.03,True
+The Large Calgary Corpus,Calgary Corpus (Large),progc,RLE+Huffman,39611,26748,32.47,0.02848,0.026369,0.000682,0.000516,1.33,1.43,0.41,1.05,True
+The Large Calgary Corpus,Calgary Corpus (Large),progc,LZW+Huffman,39611,27553,30.44,0.042017,0.030222,0.002876,0.002445,0.9,1.25,0.13,1.35,True
+The Large Calgary Corpus,Calgary Corpus (Large),progl,Huffman,71646,43422,39.39,0.04719,0.040502,0.001612,0.002452,1.45,1.69,0.07,2.26,True
+The Large Calgary Corpus,Calgary Corpus (Large),progl,LZW,71646,46556,35.02,0.034944,0.006978,0.001142,0.000156,1.96,9.79,0,1.43,True
+The Large Calgary Corpus,Calgary Corpus (Large),progl,RLE,71646,66616,7.02,0.015642,0.006563,0.001953,0.000397,4.37,10.41,0.18,0.19,True
+The Large Calgary Corpus,Calgary Corpus (Large),progl,RLE+Huffman,71646,42507,40.67,0.060223,0.045314,0.003458,0.001609,1.13,1.51,0,2.21,True
+The Large Calgary Corpus,Calgary Corpus (Large),progl,LZW+Huffman,71646,39732,44.54,0.073544,0.04122,0.003344,0.001832,0.93,1.66,0.16,1.75,True
+The Large Calgary Corpus,Calgary Corpus (Large),progp,Huffman,49379,30664,37.9,0.02582,0.027468,0.001552,0.001792,1.82,1.71,1.91,1.2,True
+The Large Calgary Corpus,Calgary Corpus (Large),progp,LZW,49379,31050,37.12,0.02084,0.005118,0.001163,0.000339,2.26,9.2,1.0,1.34,True
+The Large Calgary Corpus,Calgary Corpus (Large),progp,RLE,49379,45229,8.4,0.009974,0.004323,7.9e-05,3.1e-05,4.72,10.89,0.22,0.08,True
+The Large Calgary Corpus,Calgary Corpus (Large),progp,RLE+Huffman,49379,31112,36.99,0.036227,0.031215,0.001869,0.000714,1.3,1.51,0.83,1.16,True
+The Large Calgary Corpus,Calgary Corpus (Large),progp,LZW+Huffman,49379,27116,45.09,0.041241,0.028456,0.002451,0.00166,1.14,1.65,0,1.34,True
+The Large Calgary Corpus,Calgary Corpus (Large),trans,Huffman,93695,65718,29.86,0.08401,0.056469,0.001393,0.000475,1.06,1.58,0.08,2.42,True
+The Large Calgary Corpus,Calgary Corpus (Large),trans,LZW,93695,67394,28.07,0.057151,0.00973,0.001054,0.000375,1.56,9.18,0,1.46,True
+The Large Calgary Corpus,Calgary Corpus (Large),trans,RLE,93695,89743,4.22,0.02038,0.008518,0.00077,0.000371,4.38,10.49,0.1,0.43,True
+The Large Calgary Corpus,Calgary Corpus (Large),trans,RLE+Huffman,93695,64595,31.06,0.102217,0.065723,0.004716,0.00314,0.87,1.36,0.16,2.48,True
+The Large Calgary Corpus,Calgary Corpus (Large),trans,LZW+Huffman,93695,57415,38.72,0.125027,0.059045,0.004096,0.002107,0.71,1.51,0.39,2.07,True

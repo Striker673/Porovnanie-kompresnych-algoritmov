@@ -1,0 +1,6 @@
+algorithm,compression_ratio,avg_compress_time,avg_decompress_time,avg_compress_time_ms,avg_decompress_time_ms
+Huffman,38.067,0.3836,0.1069,383.6,106.89999999999999
+LZW,24.3314,0.3229,0.0198,322.90000000000003,19.8
+LZW+Huffman,36.7088,0.6839,0.1192,683.9,119.2
+RLE,7.297,0.0429,0.0173,42.9,17.3
+RLE+Huffman,38.2877,0.4057,0.1177,405.7,117.7
